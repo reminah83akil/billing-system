@@ -116,3 +116,4 @@
 09:44:11 | dependency_version=5974
 09:44:14 | token2=9e2acbdf3215c9045d094ee5cdfbb1003d8c6dec16e713b92f84bdcc777b17b1
 10:44:07 | level=388955
+10:44:11 | dependency_version=8980
